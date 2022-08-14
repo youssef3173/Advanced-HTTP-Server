@@ -5,7 +5,6 @@ The internet server allows any internet client to come and read internet pages l
 Here is the list of the functionalities of the internet server:
 - Processing of file reading requests,
 - Processing of requests to read the contents of a directory (listing the contents of the files and directories contained at an address)
-directories contained at an address),
 - Error processing (page not present, no access rights, etc.),
 - Memorization of usage statics,
 - Generation of an information page on the fly about the identity of the server (name of the designers, date
